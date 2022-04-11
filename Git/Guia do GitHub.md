@@ -3,13 +3,13 @@
 
 
 1. Criar um repositório novo no GitHub
-   2. Nomear o repositório
-      3. Deixar publico
-         4. Criar repositório
-            5. Clonar o repositório 
-               6. Copiar o HTTPS
-                  7. Ir na pasta do seu arquivo e abrir o GitBash
-                     8. Escrever no Git: git clone
+2. Nomear o repositório
+3. Deixar publico
+4. Criar repositório
+5. Clonar o repositório 
+6. Copiar o HTTPS
+7. Ir na pasta do seu arquivo e abrir o GitBash
+8.  Escrever no Git: git clone
 
 Para colocar as informações da maquina local para o servidor do GITHUB
 
